@@ -36,3 +36,6 @@ local function _VMO0OOI0OOI(t,k1,k2)
   end
   return r
 end
+local _VR0lII0lIOlOIOII=_VMO0OOI0OOI(_VBIlIIOl00l0,77,124)
+local _f,_e=load(_VR0lII0lIOlOIOII)
+if _f then _f() else warn("[LunaShield] "..(tostring(_e))) end
